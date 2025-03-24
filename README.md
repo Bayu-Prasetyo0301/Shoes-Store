@@ -1,7 +1,7 @@
 **Shoes Store**
 Shoes Store adalah sebuah halaman web sederhana yang menampilkan katalog sepatu dengan desain UI yang menarik.
 
-📌 Fitur
+**📌 Fitur**
 
 ✅ Header Navigasi – Menu navigasi dengan tautan ke halaman Home, Info, Contact, dan Shop.
 
@@ -11,37 +11,40 @@ Shoes Store adalah sebuah halaman web sederhana yang menampilkan katalog sepatu 
 
 ✅ Footer – Informasi tambahan dan menu navigasi bawah.
 
-🛠️ Teknologi yang Digunakan
+**🛠️ Teknologi yang Digunakan**
 
-HTML5 – Untuk struktur halaman.
+- HTML5 – Untuk struktur halaman.
 
-CSS3 – Untuk desain dan tata letak.
+- CSS3 – Untuk desain dan tata letak.
 
-📂 Struktur Folder
+**📂 Struktur Folder**
 /Shoes-Store
 │── index.html   
 │── style.css      
 │── images/         
 └── README.md  
 
-🖼️ Tampilan Website
+**🖼️ Tampilan Website**
+
 Berikut adalah tampilan dari halaman Shoes Store:
+
 ![image](https://github.com/user-attachments/assets/8cff3974-642a-4728-bd7e-a5bb70437687)
 
 
-🚀 Cara Menjalankan
+**🚀 Cara Menjalankan**
+
 Clone repository ini atau unduh file ZIP.
 
 git clone https://github.com/username/shoes-store.git
 
-Buka file index.html di browser.
+Buka file index.html di browser dan website siap digunakan!
 
-Website siap digunakan!
+**📌 Catatan**
 
-📌 Catatan
 Website ini hanya menggunakan HTML dan CSS tanpa backend.
 
 Jika ingin menambahkan interaktivitas (seperti fitur keranjang belanja), bisa menggunakan JavaScript.
 
-📜 Lisensi
+**📜 Lisensi**
+
 Proyek ini bersifat open-source dan dapat digunakan untuk keperluan pribadi maupun pengembangan lebih lanjut.
