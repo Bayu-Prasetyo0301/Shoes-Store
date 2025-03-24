@@ -27,6 +27,7 @@ Berikut adalah tampilan dari halaman Shoes Store:
 Clone repository ini atau unduh file ZIP.
 
 git clone https://github.com/username/shoes-store.git
+
 Buka file index.html di browser.
 
 Website siap digunakan!
