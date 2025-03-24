@@ -2,13 +2,19 @@
 Shoes Store adalah sebuah halaman web sederhana yang menampilkan katalog sepatu dengan desain UI yang menarik.
 
 📌 Fitur
+
 ✅ Header Navigasi – Menu navigasi dengan tautan ke halaman Home, Info, Contact, dan Shop.
+
 ✅ Banner Promosi – Menampilkan koleksi eksklusif dengan gambar sepatu dan pilihan warna.
+
 ✅ Katalog Produk – Bagian "New Arrivals" dengan beberapa produk sepatu lengkap dengan gambar, nama, deskripsi, dan harga.
+
 ✅ Footer – Informasi tambahan dan menu navigasi bawah.
 
 🛠️ Teknologi yang Digunakan
+
 HTML5 – Untuk struktur halaman.
+
 CSS3 – Untuk desain dan tata letak.
 
 📂 Struktur Folder
